@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.post {
+    margin: auto;
+    padding: 50px 0px;
+    width: 75%;
+}
+
+.post .post-head {
+    background-color: white;
+    padding: 20px;
+}
+
+.post-head .fa-html5 {
+    font-size: 35px;
+    float: left;
+}
+
+.post-head .container {
+    float: left;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.post-head .fa-ellipsis-v {
+    font-size: 30px;
+    float: right;
+}
+
+.post .post-img {
+    background-color: white;
+}
+
+.post img {
+    width: 100%;
+}
+
+.post .post-body {
+    background-color: white;
+    padding: 15px 0;
+}
+
+.post-body span {
+    padding: 15px;
+    font-size: 35px;
+}
+
+.fa-bookmark {
+    float: right;
+    padding-right: 35px;
+}
+
+.post-body p {
+    padding: 5px 15px 0px 15px;
+}
